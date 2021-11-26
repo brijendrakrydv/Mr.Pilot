@@ -1,1 +1,1 @@
-Mr.Pilot is a simple game built using C++
+Mr.Pilot is a simple game built using C++.
